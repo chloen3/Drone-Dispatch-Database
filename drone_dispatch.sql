@@ -1,10 +1,10 @@
 -- CS4400: Introduction to Database Systems (Spring 2024)
 
 -- Team
--- Chloe Nicola (cnicola3)
--- Emma Blazejewski (eblazejewski6)
--- Blake Rodgers (brodgers9)
--- Charlie Hamilton (chamilton63)
+-- Chloe Nicola
+-- Emma Blazejewski
+-- Blake Rodgers
+-- Charlie Hamilton
 
 
 /* This is a standard preamble for most of our scripts.  The intent is to establish
